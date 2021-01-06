@@ -1,0 +1,10 @@
+build
+*.jpg
+*.jpeg
+*.png
+*.tiff
+*.tif
+*.gif
+*.aux
+*.log
+*.pdf
