@@ -1,8 +1,8 @@
 the-mousetrap.md
-Last modified: Thu Jan 07, 2021  11:48AM
+Last modified: Thu Jan 07, 2021  11:55AM
 
 
-# The Mouse Takes the Cheese
+# How the Mouse Takes the Cheese
 
 
 She opened the heavy door and peered around it into the black room. Inside there were only two sources of light: one from the door she had opened, cutting a knife-blade shape across the floor of cold stone, and the other a can-light from the ceiling which made a perfect circle at the exact center of the room, like the lighting of a small black-box theater stage. That circle of light shown down cold and white on a perfect man.
