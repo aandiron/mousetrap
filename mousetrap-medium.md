@@ -1,5 +1,8 @@
-the-mousetrap.md
-Last modified: Thu Jan 07, 2021  12:11PM
+---
+title: How the Mouse Takes the Cheese 
+tags: ['Fiction', 'Sexuality', 'Erotica For Women']
+status: draft
+---
 
 
 # How the Mouse Takes the Cheese

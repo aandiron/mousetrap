@@ -1,5 +1,5 @@
 README.md
-Last modified: Wed Jan 06, 2021  05:39PM
+Last modified: Fri Jan 08, 2021  10:49PM
 
 # The Trap (working title)
 * By A. Andiron
@@ -12,6 +12,7 @@ Last modified: Wed Jan 06, 2021  05:39PM
 
 ## Compilation notes:
 * Use pandoc to compile .md into whatever format you like.
+* -medium version is adapted slightly for posting to Medium.
 
 ## License:
 * Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
