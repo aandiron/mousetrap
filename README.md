@@ -1,12 +1,12 @@
 README.md
-Last modified: Fri Jan 08, 2021  10:49PM
+Last modified: Mon Jan 18, 2021  02:13PM
 
-# The Trap (working title)
+# How the Mouse Takes the Cheese
 * By A. Andiron
 
 ## How to read it:
 * Available to read on Literotica:
-	* (eventually)
+	* https://www.literotica.com/s/how-the-mouse-takes-the-cheese
 * Or, compile from this source code using latex.
 	* (Or just read the markdown, available in source.) 
 
